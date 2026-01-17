@@ -34,6 +34,7 @@ The project simulates a basic internal HR tool with a clean and professional int
 npm install
 
 3. Create a .env file in the backend folder with the following content:
+
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/hrms
 
